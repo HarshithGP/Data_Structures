@@ -3,13 +3,12 @@
  * Operations
  * 
  * Push: Inserts an element at the Top
+ * Push Many : Inserts multiple elements
  * Pop: deletes the Element on Top
+ * Pop All: deletes multiple elements
  * Peek: returns element at the top without deleting
- * 
- * 
- * 
- * 
- * 
+ * Display: displays stack elements
+ *
  */
 import java.io.*;
 import java.util.*;
